@@ -20,3 +20,4 @@ Please, to download the data used for the following analysis, download it from h
       - licitacao-2019.csv
 
   - analisys.ipynb  
+Or you can just, in the code, change the folder that the data will be loaded. Please, any difficult, contact to cecchetto.bernardo@gmail.com
