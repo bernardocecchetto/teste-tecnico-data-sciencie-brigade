@@ -9,8 +9,8 @@ Please, to download the data used for the following analysis, download it from h
 - Project Folder
   - Data
     - item
-      - csv files   
+      - item csv files   
     - licitacao
-      - csv files
+      - licitacao csv files
 
-  -ipynb file  
+  - ipynb file  
