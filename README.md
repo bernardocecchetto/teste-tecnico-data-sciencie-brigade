@@ -13,11 +13,11 @@ The files used in following study comes from:
 - https://drive.google.com/file/d/1FEGbEIhE3WQrkd3iy20b5fBi2xwbakXL/view
 - https://drive.google.com/file/d/1NGpVRqo9xbvEUSzR9KWOOf4V6GeBc5a7/view
 
-And it was downloaded the files names "item.csv" and "licitacao.csv" of each year and they was named as following:
+And it was downloaded the files named as "item.csv" and "licitacao.csv" from each link, which represents different years, and they was named as following:
 - "name_of_the_file-" + "year_of_the_data.csv"
 
 In files that is named like "item-" + "year_of_the_data.csv" has data about the items that was bought by public organs from the RS state.
-In files that is named "licitacao-" + "year_of_the_data.csv" has data about the licitations of the items that was bought by public organs from the RS state.
+In files that is named like "licitacao-" + "year_of_the_data.csv" has data about the licitations of the items that was bought by public organs from the RS state.
 
 # How to download the dataset
 Please, to download the data used for the following analysis, download it from https://drive.google.com/drive/folders/1KYo5dtau-zmCrLK5rYieAt_i0HqJoPxP?usp=sharing and put it in the project folder. Just like that:
