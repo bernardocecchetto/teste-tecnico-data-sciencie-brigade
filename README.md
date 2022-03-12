@@ -4,7 +4,7 @@ The following repository contains all the analysis and conclusion about the tecn
 The Jupyter Notebook fale named "analisys.ipynb" contains a lot of analisys about the patterns of purchases from the public organs of RS state, separing these patterns by year and organs, to analyze how much was spent, with what was spent, when was spent, and some explanations about the results obtained.
 
 
-## Instructions:
+# Instructions:
 
 ### Dataset used
 The files used in following study comes from:
