@@ -3,6 +3,11 @@ The following repository contains all the analysis and conclusions about the tec
 
 The Jupyter Notebook file named "analysis.ipynb" contains a lot of analisys about the patterns of purchases from the public organs of RS state, separing these patterns by year and organs, to analyze how much was spent, with what was spent, when was spent, and some other explanations about the results obtained.
 
+It was used Python language and the following frameworks for the analysis:
+- Pandas
+- Matplotlib
+- Numpy
+
 
 # Instructions:
 
