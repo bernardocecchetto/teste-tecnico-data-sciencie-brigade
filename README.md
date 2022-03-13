@@ -1,7 +1,7 @@
 # teste-tecnico-data-sciencie-brigade
 The following repository contains all the analysis and conclusions about the tecnical test from Data Science Brigade. 
 
-The Jupyter Notebook file named "analisys.ipynb" contains a lot of analisys about the patterns of purchases from the public organs of RS state, separing these patterns by year and organs, to analyze how much was spent, with what was spent, when was spent, and some other explanations about the results obtained.
+The Jupyter Notebook file named "analysis.ipynb" contains a lot of analisys about the patterns of purchases from the public organs of RS state, separing these patterns by year and organs, to analyze how much was spent, with what was spent, when was spent, and some other explanations about the results obtained.
 
 
 # Instructions:
