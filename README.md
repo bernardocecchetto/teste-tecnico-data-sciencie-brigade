@@ -46,7 +46,7 @@ Or you can just, in the code, change the folder that the data will be loaded. Pl
 
 ## How to reproduce the virtual environment used
 To reproduce the virtual environment that was used, please just create a virtual environment using the following command:
-- virtualenv venv
+- virtualenv venv\\
 It will create a virtual environment named "venv". Next, you activate it and, inside venv, install pip package and the packages inside "requirements.txt" using the following command:
 - pip install -r requirements.txt
 
