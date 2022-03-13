@@ -45,10 +45,9 @@ Please, to download the data used for the following analysis, download it from h
 Or you can just, in the code, change the folder that the data will be loaded. Please, any difficult, contact to cecchetto.bernardo@gmail.com.
 
 ## How to reproduce the virtual environment used
-To reproduce the virtual environment that was used, please just create a virtual environment: \
+To reproduce the virtual environment that was used, please just create a virtual environment using the following command:
 - virtualenv venv
-Activate your virtual environment \
-Then install the pip package and install the packages in the file "requirements.txt" using the follow command: \
+It will create a virtual environment named "venv". Next, you activate it and, inside venv, install pip package and the packages inside "requirements.txt" using the following command:
 - pip install -r requirements.txt
 
 
