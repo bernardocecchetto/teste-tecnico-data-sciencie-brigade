@@ -6,7 +6,7 @@ The Jupyter Notebook file named "analysis.ipynb" contains a lot of analisys abou
 
 # Instructions:
 
-### Dataset used
+## Dataset used
 The files used in following study comes from:
 - https://drive.google.com/file/d/1OfxA4FGzR4zOy8KIdPl8cAK5ojsJv-vV/view
 - https://drive.google.com/file/d/1OfxA4FGzR4zOy8KIdPl8cAK5ojsJv-vV/view
@@ -19,7 +19,7 @@ And it was downloaded the files named as "item.csv" and "licitacao.csv" from eac
 In files that is named like "item-" + "year_of_the_data.csv" has data about the items that was bought by public organs from the RS state.
 In files that is named like "licitacao-" + "year_of_the_data.csv" has data about the licitations of the items that was bought by public organs from the RS state.
 
-# How to download directly the named files
+## How to download directly the named files
 Please, to download the data used for the following analysis, download it from https://drive.google.com/drive/folders/1KYo5dtau-zmCrLK5rYieAt_i0HqJoPxP?usp=sharing and put it in the project folder. Just like that:
 
 - teste-tecnico-data-sciencie-brigade
@@ -39,7 +39,7 @@ Please, to download the data used for the following analysis, download it from h
 
 Or you can just, in the code, change the folder that the data will be loaded. Please, any difficult, contact to cecchetto.bernardo@gmail.com.
 
-### How to reproduce the virtual environment used
+## How to reproduce the virtual environment used
 To reproduce the virtual environment that was used, please just create a virtual environment, install the pip package and install the packages in the file "requirements.txt" using the follow command:
 
 pip install -r requirements.txt
