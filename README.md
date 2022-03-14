@@ -25,11 +25,13 @@ In files that is named like "item-" + "year_of_the_data.csv" has data about the 
 In files that is named like "licitacao-" + "year_of_the_data.csv" has data about the licitations of the items that was bought by public organs from the RS state.
 
 ## How to download directly the named files
-Please, to download the data used for the following analysis, download it from https://drive.google.com/drive/folders/1KYo5dtau-zmCrLK5rYieAt_i0HqJoPxP?usp=sharing and put it in the project folder. Just like that:
+The files wasn't uploaded to github becasue the csv's sizes are too big and my GitHub account have space limitations. So they were uploaded to my personal Google Drive account.
 
-📦teste-tecnico-data-sciencie-brigade
-  📦data
-   ┣ 📂item
+Please, to download the data used for the following analysis, download it from https://drive.google.com/drive/folders/1KYo5dtau-zmCrLK5rYieAt_i0HqJoPxP?usp=sharing and put it in the project folder. Just like that:
+``` bash
+📦teste-tecnico-data-sciencie-brigade 
+  📦data 
+   ┣ 📂item 
    ┃ ┣ 📜item-2016.csv
    ┃ ┣ 📜item-2017.csv
    ┃ ┣ 📜item-2018.csv
@@ -44,7 +46,7 @@ Please, to download the data used for the following analysis, download it from h
    ┣ 📜LICENSE
    ┣ 📜README.md
    ┗ 📜requirements.txt
-   
+```
 Or you can just, in the code, change the folder that the data will be loaded. Please, any difficult, contact to cecchetto.bernardo@gmail.com.
 
 ## How to reproduce the virtual environment used
