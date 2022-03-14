@@ -27,7 +27,7 @@ In files that is named like "licitacao-" + "year_of_the_data.csv" has data about
 ## How to download directly the named files
 The files wasn't uploaded to github becasue the csv's sizes are too big and my GitHub account have space limitations. So they were uploaded to my personal Google Drive account.
 
-Please, to download the data used for the following analysis, download it from https://drive.google.com/drive/folders/1KYo5dtau-zmCrLK5rYieAt_i0HqJoPxP?usp=sharing and put it in the project folder. Just like that:
+Please, to download the data used for the following analysis, download it from https://drive.google.com/drive/folders/1KYo5dtau-zmCrLK5rYieAt_i0HqJoPxP?usp=sharing and put it in a folder called "data", with subfolders called "item" and "licitacao". Just like that:
 ``` bash
 📦teste-tecnico-data-sciencie-brigade 
   📦data 
