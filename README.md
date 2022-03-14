@@ -27,29 +27,32 @@ In files that is named like "licitacao-" + "year_of_the_data.csv" has data about
 ## How to download directly the named files
 Please, to download the data used for the following analysis, download it from https://drive.google.com/drive/folders/1KYo5dtau-zmCrLK5rYieAt_i0HqJoPxP?usp=sharing and put it in the project folder. Just like that:
 
-- teste-tecnico-data-sciencie-brigade
-  - data
-    - item
-      - item-2016.csv
-      - item-2017.csv
-      - item-2018.csv
-      - item-2019.csv
-    - licitacao
-      - licitacao-2016.csv
-      - licitacao-2017.csv
-      - licitacao-2018.csv
-      - licitacao-2019.csv
-
-  - analisys.ipynb  
-
+📦teste-tecnico-data-sciencie-brigade
+  📦data
+   ┣ 📂item
+   ┃ ┣ 📜item-2016.csv
+   ┃ ┣ 📜item-2017.csv
+   ┃ ┣ 📜item-2018.csv
+   ┃ ┗ 📜item-2019.csv
+   ┗ 📂licitacao
+   ┃ ┣ 📜licitacao-2016.csv
+   ┃ ┣ 📜licitacao-2017.csv
+   ┃ ┣ 📜licitacao-2018.csv
+   ┃ ┗ 📜licitacao-2019.csv
+   ┣ 📜.gitignore
+   ┣ 📜analysis.ipynb
+   ┣ 📜LICENSE
+   ┣ 📜README.md
+   ┗ 📜requirements.txt
+   
 Or you can just, in the code, change the folder that the data will be loaded. Please, any difficult, contact to cecchetto.bernardo@gmail.com.
 
 ## How to reproduce the virtual environment used
 To reproduce the virtual environment that was used, please just create a virtual environment using the following command:
-- virtualenv venv
-
+`virtualenv venv
+`
 
 It will create a virtual environment named "venv". Next, you activate it and, inside venv, install pip package and the packages inside "requirements.txt" using the following command:
-- pip install -r requirements.txt
-
+`pip install -r requirements.txt
+`
 
