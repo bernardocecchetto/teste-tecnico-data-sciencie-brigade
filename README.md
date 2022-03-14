@@ -41,11 +41,11 @@ Please, to download the data used for the following analysis, download it from h
    ┃ ┣ 📜licitacao-2017.csv
    ┃ ┣ 📜licitacao-2018.csv
    ┃ ┗ 📜licitacao-2019.csv
-   ┣ 📜.gitignore
-   ┣ 📜analysis.ipynb
-   ┣ 📜LICENSE
-   ┣ 📜README.md
-   ┗ 📜requirements.txt
+  ┣ 📜.gitignore
+  ┣ 📜analysis.ipynb
+  ┣ 📜LICENSE
+  ┣ 📜README.md
+  ┗ 📜requirements.txt
 ```
 Or you can just, in the code, change the folder that the data will be loaded. Please, any difficult, contact to cecchetto.bernardo@gmail.com.
 
